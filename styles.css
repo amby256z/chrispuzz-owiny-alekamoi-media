@@ -79,6 +79,11 @@ h1, h2, h3, h4 { font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; }
   .menu-btn { display: none; }
 }
 
+.logo img {
+    height: 50px;   /* adjust size */
+    width: auto;
+}
+
 /* ===== Buttons ===== */
 .btn {
   display: inline-flex; align-items: center; gap: 8px;
